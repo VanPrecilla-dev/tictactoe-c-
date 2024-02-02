@@ -1,0 +1,5 @@
+F:\tictactoe\tictactoe\x64\Debug\tictactoe.vcxproj.AssemblyReference.cache
+F:\tictactoe\tictactoe\x64\Debug\tictactoe.vcxproj.SuggestedBindingRedirects.cache
+F:\tictactoe\tictactoe\x64\Debug\tictactoe.MyForm.resources
+F:\tictactoe\tictactoe\x64\Debug\tictactoe.vcxproj.GenerateResource.cache
+F:\tictactoe\tictactoe\x64\Debug\tictactoe.exe
